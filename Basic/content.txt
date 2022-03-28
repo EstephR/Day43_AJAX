@@ -1,0 +1,1 @@
+Hello there, lets play a little with AJAX!
